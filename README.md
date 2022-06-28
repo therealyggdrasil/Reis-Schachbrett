@@ -8,4 +8,4 @@ Ja, die Idee ist nicht neu, wurde sicher schon 1000x gemacht und eben so oft auf
 Es wird die Anzahl von Reiskörnern/Weizenkörnern pro Feld auf einem Schachbrett angezeigt und zugleich auch die Gesamtanzahl von Reiskörnern auf dem Brett.
 Auf das erste Feld kommt ein Korn, auf das zweite Feld kommen zwei Körner, auf das dritte Feld vier Körner, auf das vierte Feld acht Körner usw. Die Anzahl der Körner wird also auf jedem Feld verdoppelt.
 
-Ebenso wird das Gewicht aller auf dem Schachbrett befindlichen Reiskörner/Weizenkörner in Gramm, Kilogramm und Tonnen angezeigt.
+Ebenso wird das Gewicht aller auf dem Schachbrett befindlichen Reiskörner/Weizenkörner in Gramm, Kilogramm und Tonnen aausgegeben.
